@@ -52,3 +52,4 @@ navigator.getBattery().then(battery => {
 });
 
 /* This script adapted from the excellent code examples found at https://www.w3.org/TR/battery-status/#examples and https://developer.mozilla.org/en-US/docs/Web/API/Battery_Status_API */
+/* */
